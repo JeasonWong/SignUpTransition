@@ -13,6 +13,16 @@ A cool material sign up transition.
 
 https://dribbble.com/shots/2903417-Sign-Up-Transition-Daily-UI-001
 
+### About Me
+
+[Weibo](http://weibo.com/WongYuwei)
+
+[Blog](http://www.wangyuwei.me)
+
+### Group
+
+**479729938**
+
 ##**License**
 
 ```license
