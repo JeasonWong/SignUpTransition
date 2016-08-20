@@ -4,6 +4,8 @@ A cool material sign up transition.
 ### Demo
 ![效果](https://raw.githubusercontent.com/jeasonwong/signuptransition/master/screenshots/scene.gif)
 
+### Article
+[手摸手教你用Scene完成炫酷的注册登录动画](http://www.wangyuwei.me/2016/08/20/%E6%89%8B%E6%91%B8%E6%89%8B%E6%95%99%E4%BD%A0%E7%94%A8Scene%E5%AE%9E%E7%8E%B0%E7%82%AB%E9%85%B7%E7%9A%84%E6%B3%A8%E5%86%8C%E7%99%BB%E5%BD%95%E5%8A%A8%E7%94%BB/)
 
 ### Designer
 
