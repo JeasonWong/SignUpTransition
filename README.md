@@ -1,6 +1,8 @@
 # SignUpTransition
 A cool material sign up transition.
 
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-SignUpTransition-green.svg?style=true)](https://android-arsenal.com/details/3/4185)
+
 ### Demo
 ![效果](https://raw.githubusercontent.com/jeasonwong/signuptransition/master/screenshots/scene.gif)
 
